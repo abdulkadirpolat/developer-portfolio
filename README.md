@@ -1,4 +1,4 @@
-# tailwind-project
+# Developer Portfolio
 
 ## Build Setup
 
