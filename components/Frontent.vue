@@ -1,7 +1,7 @@
 <template>
   <div class="frontent">
     <span
-      class="absolute -top-4 left-14 bg-gray-100 p-1 px-2 rounded-xl shadow-lg "
+      class=" absolute -top-4 left-14 bg-gray-100 p-1 px-2 rounded-xl shadow-lg "
       >{{ title }}</span
     >
     <div v-for="front in objects" class="tools" :key="front">
